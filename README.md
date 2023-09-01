@@ -2,7 +2,7 @@
 - 👀 I’m interested in Typescript and Rust.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 'PostgreSQL
-- 📫 How to reach me ...
+- 📫 How to reach me ssiraevmaksim@gmail.com
 
 <!---
 ssiraevmaksim/ssiraevmaksim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
