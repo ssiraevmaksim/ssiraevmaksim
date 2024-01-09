@@ -6,4 +6,4 @@
 - Learn python.
 
 ssiraevmaksim/ssiraevmaksim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a lo
+You can click the Preview link to take a l
