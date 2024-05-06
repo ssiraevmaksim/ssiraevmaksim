@@ -5,4 +5,4 @@
 - 📫 How to reach me ssiraevmaksim@gmail.com
 - Learn python.
 
-ssiraevmaksim/ssiraevmaksim is a ✨ special ✨ repository because its `README.md` qazqazo
+ssiraevmaksim/ssiraevmaksim is a ✨ special ✨ repository because its `README.md` qazqaz
